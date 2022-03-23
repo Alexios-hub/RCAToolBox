@@ -1,0 +1,882 @@
+{
+    "20210718_123000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210718_133000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210718_143000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210718_153000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210718_163000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210718_183000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210718_193000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210718_203000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210718_213000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210718_223000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210718_233000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210719_013000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210719_033000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210719_043000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210719_053000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210719_083000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210719_093000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210719_123000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210719_133000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210719_153000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210719_163000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210719_193000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210719_203000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210719_213000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210719_223000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210719_233000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210720_003000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210720_013000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210720_023000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210720_033000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210720_043000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210720_073000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210720_093000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210720_103000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210720_113000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210720_123000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210720_133000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210720_143000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210720_153000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210720_163000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210720_173000_SockShopPerformance": {
+        "position": "catalogue-db",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210720_183000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210720_193000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210720_203000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210720_213000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210720_223000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210720_233000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210721_003000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210721_013000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210721_023000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210721_033000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210721_043000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210721_053000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210721_063000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210721_073000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210721_083000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210721_093000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210721_103000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210721_113000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210721_123000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210721_133000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210721_143000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210721_153000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210721_163000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210721_173000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210721_183000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210721_193000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210721_203000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210721_213000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210721_223000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210721_233000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210722_003000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210722_013000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210722_023000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210722_033000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210722_043000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210722_053000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210722_063000_SockShopPerformance": {
+        "position": "carts-db",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210722_073000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210722_083000_SockShopPerformance": {
+        "position": "queue-master",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210722_093000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210722_103000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210722_113000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210722_123000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210722_133000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210722_143000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210722_153000_SockShopPerformance": {
+        "position": "catalogue",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210722_163000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210722_173000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210722_183000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210722_193000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210722_213000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210722_223000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210722_233000_SockShopPerformance": {
+        "position": "catalogue-db",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210723_003000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210723_013000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210723_043000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210723_053000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210723_063000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210723_073000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210723_083000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210723_093000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210723_103000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210723_113000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210723_123000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210723_133000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210723_143000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210723_153000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210723_163000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210723_183000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210723_193000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210723_203000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210723_213000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210723_223000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210724_003000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210724_013000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210724_023000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210724_033000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210724_043000_SockShopPerformance": {
+        "position": "catalogue",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210724_053000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210724_063000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210724_073000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210724_083000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210724_103000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210724_113000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210724_123000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210724_133000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210724_143000_SockShopPerformance": {
+        "position": "shipping",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210724_153000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210724_163000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210724_183000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210724_193000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210724_213000_SockShopPerformance": {
+        "position": "shipping",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210724_223000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network loss"
+    },
+    "20210724_233000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210725_013000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210725_033000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210725_043000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210725_053000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210725_063000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210725_073000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210725_083000_SockShopPerformance": {
+        "position": "192.168.199.35",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210725_093000_SockShopPerformance": {
+        "position": "192.168.199.32",
+        "type": "blade create k8s node-cpu load"
+    },
+    "20210725_103000_SockShopPerformance": {
+        "position": "192.168.199.33",
+        "type": "blade create k8s node-network delay"
+    },
+    "20210915_003000_SockShopPerformance": {
+        "position": "queue-master",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210915_013000_SockShopPerformance": {
+        "position": "shipping",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210915_083000_SockShopPerformance": {
+        "position": "catalogue",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210915_093000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210915_113000_SockShopPerformance": {
+        "position": "catalogue-db",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210915_123000_SockShopPerformance": {
+        "position": "user",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210915_143000_SockShopPerformance": {
+        "position": "carts",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210915_153000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210915_163000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210915_173000_SockShopPerformance": {
+        "position": "shipping",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210915_183000_SockShopPerformance": {
+        "position": "user",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210915_193000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210915_203000_SockShopPerformance": {
+        "position": "catalogue-db",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210915_213000_SockShopPerformance": {
+        "position": "catalogue",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210915_223000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210915_233000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_023000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_033000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_043000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_053000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_063000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_073000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_083000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_093000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_103000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_113000_SockShopPerformance": {
+        "position": "user",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_123000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_133000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_143000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_163000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_173000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_183000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_193000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_203000_SockShopPerformance": {
+        "position": "user",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_213000_SockShopPerformance": {
+        "position": "catalogue-db",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210916_223000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_013000_SockShopPerformance": {
+        "position": "carts-db",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_023000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_033000_SockShopPerformance": {
+        "position": "queue-master",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_043000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_053000_SockShopPerformance": {
+        "position": "user",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_063000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_073000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_083000_SockShopPerformance": {
+        "position": "catalogue-db",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_093000_SockShopPerformance": {
+        "position": "carts",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_103000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_113000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_123000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_133000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_143000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_153000_SockShopPerformance": {
+        "position": "user",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_163000_SockShopPerformance": {
+        "position": "shipping",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_173000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_183000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_193000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_203000_SockShopPerformance": {
+        "position": "catalogue-db",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_213000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210917_233000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_003000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_013000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_023000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_033000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_043000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_053000_SockShopPerformance": {
+        "position": "shipping",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_063000_SockShopPerformance": {
+        "position": "queue-master",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_083000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_093000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_113000_SockShopPerformance": {
+        "position": "carts-db",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_123000_SockShopPerformance": {
+        "position": "shipping",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_163000_SockShopPerformance": {
+        "position": "carts",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_173000_SockShopPerformance": {
+        "position": "user",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_183000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_193000_SockShopPerformance": {
+        "position": "catalogue",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_213000_SockShopPerformance": {
+        "position": "orders",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210918_233000_SockShopPerformance": {
+        "position": "user",
+        "type": "blade create k8s pod-pod delete"
+    },
+    "20210919_003000_SockShopPerformance": {
+        "position": "front-end",
+        "type": "blade create k8s pod-pod delete"
+    }
+}
